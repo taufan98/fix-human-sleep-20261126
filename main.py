@@ -8,11 +8,16 @@ that human sleep is fixed, with the joke carried by the side effect
 
 import os
 
-ENTRY = 'v2.6.1 — Fixed: humans can now sleep through the night. Side effect: dreams now render in 4K. Known issue: Mondays still exist.'
+ENTRY = (
+    "v2.6.1 — Fixed: humans can now sleep through the night. "
+    "Side effect: dreams now render in 4K. "
+    "Known issue: Mondays still exist."
+)
 
 
 def main() -> None:
     text = ENTRY
+    # Gate: 1-160 chars, single line, no leading/trailing whitespace.
     assert 1 <= len(text) <= 160, f"entry is {len(text)} chars, must be 1-160"
     assert text.strip(), "entry must not be only whitespace"
     assert "\n" not in text and "\r" not in text, "entry must be a single line"

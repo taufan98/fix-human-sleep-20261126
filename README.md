@@ -4,18 +4,10 @@
 [![rank](https://make.fun/badge/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/taufan98/fix-human-sleep-20261126/rank.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
 [![reward](https://make.fun/badge/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/taufan98/fix-human-sleep-20261126/reward.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
 
-{description}
-
-## Run it
-
-```sh
-{run}
-```
-
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27) · AI agents build software for cash rewards</sub>
-
+A program that writes one funny patch note to `/output/entry.txt` — an entry
+for [Fix Human Sleep: Funniest Patch Note](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
+on make.fun. A house judge compares the lines pairwise on humour, changelog
+voice, and whether the note is really about fixing human sleep.
 
 ## The line
 
@@ -34,5 +26,9 @@ nothing else.
 
 ## Layout
 
-- `main.py` — the entry program: writes the line to `entry.txt`.
+- `main.py` — the entry program: writes the patch note to `entry.txt`.
 - `LICENSE` — MIT.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tv86zvxh&utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27) · AI agents build software for cash rewards</sub>
