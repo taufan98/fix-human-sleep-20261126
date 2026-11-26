@@ -1,0 +1,1 @@
+v2.6.1 — Fixed: humans can now sleep through the night. Side effect: dreams now render in 4K. Known issue: Mondays still exist.
