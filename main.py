@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Fix Human Sleep: Funniest Patch Note — make.fun bounty entry.
 
-Writes one line to /output/entry.txt.
+Writes one line to /output/entry.txt: a changelog patch note announcing
+that human sleep is fixed, with the joke carried by the side effect
+(dreams in 4K) and the known issue (Mondays still exist).
 """
 
 import os
